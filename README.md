@@ -5,13 +5,14 @@ Below some descrpition
 
 On the first screen you can see i use table view that show User 20 recent top artciles from news api
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-23 at 13 42 04](https://user-images.githubusercontent.com/124820395/220911159-2db1136f-25f9-4085-b1ce-379fe54dc378.png)
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-23 at 13 42 04](https://user-images.githubusercontent.com/124820395/220909277-0f6a2fa0-e54a-40a1-8ff8-643604c03409.png)
+
 
 
 on the second screen you can se when user tap on article its automatic open a safari with this article
 
-<img src=(https://user-images.githubusercontent.com/124820395/220909473-9cb9a917-53fe-48d4-997d-0a7f0d3f0fec.png)width="200" height="400" />
+
 
 
 thank you for any advice
