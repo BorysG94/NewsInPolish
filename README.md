@@ -11,7 +11,7 @@ On the first screen you can see i use table view that show User 20 recent top ar
 
 on the second screen you can se when user tap on article its automatic open a safari with this article
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-23 at 13 42 28](https://user-images.githubusercontent.com/124820395/220909473-9cb9a917-53fe-48d4-997d-0a7f0d3f0fec.png)
+<img src=(https://user-images.githubusercontent.com/124820395/220909473-9cb9a917-53fe-48d4-997d-0a7f0d3f0fec.png)width="200" height="400" />
 
 
 thank you for any advice
